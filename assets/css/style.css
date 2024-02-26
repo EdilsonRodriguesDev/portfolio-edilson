@@ -50,7 +50,20 @@ body {
   padding-bottom: 26px;
 }
 
+.article {
+  display: inline-block;
+}
+
 .div-left {
   width: 400px;
   padding: 30px 100px;
+}
+
+.div-right {
+  width: 400px;
+  padding: 30px 100px;
+}
+
+.img-vetor-man {
+  width: 400px;
 }
